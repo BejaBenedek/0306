@@ -71,7 +71,7 @@ header p {
         "super karma calc"
         "... karma ..."
         ;
-        grid-auto-columns: 1fr 1fr 1fr;
+        grid-templatse-columns: 1fr 1fr 1fr;
         margin:0 150px 0;
     }
 
